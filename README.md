@@ -2,14 +2,6 @@
 
 Analisis berbasis SQL (PostgreSQL) pada Brazilian E-Commerce Public Dataset by Olist untuk mengukur seberapa besar keterlambatan pengiriman dan biaya ongkir memengaruhi review score pelanggan.
 
-> Mini project **Offline Bootcamp Data Analyst Batch 4 — dibimbing.id** (September 2026).
-
-![SQL](https://img.shields.io/badge/Tool-SQL%20(PostgreSQL)-336791?logo=postgresql&logoColor=white)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle%20Olist-20BEFF?logo=kaggle&logoColor=white)
-![Report](https://img.shields.io/badge/Report-Bahasa%20Indonesia-red)
-
----
-
 ## Daftar Isi
 
 - [Latar Belakang](#latar-belakang)
