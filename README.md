@@ -1,4 +1,4 @@
-# Analisis Pengaruh Waktu Pengiriman dan Biaya Ongkir terhadap Kepuasan Pelanggan pada E-Commerce Olist
+# Analisis Pengaruh Waktu Pengiriman dan Biaya Ongkir terhadap Kepuasan Pelanggan pada E-Commerce
 
 Analisis berbasis SQL (PostgreSQL) pada Brazilian E-Commerce Public Dataset by Olist untuk mengukur seberapa besar keterlambatan pengiriman dan biaya ongkir memengaruhi review score pelanggan.
 
