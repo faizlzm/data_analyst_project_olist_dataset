@@ -118,7 +118,7 @@ Semua view hanya memakai pesanan berstatus `delivered` dengan tanggal pengiriman
 
 Semakin mahal ongkir, semakin lama pengirimannya. Ongkir termurah justru sampai paling cepat (sekitar 7 hari), sedangkan ongkir termahal rata-rata sekitar 15 hari.
 
-### 3. Pelanggan berongkir mahal paling kecewa saat terlambat
+### 3. Pelanggan dengan ongkir mahal paling kecewa saat terlambat
 
 | Level ekspektasi | Status janji | Pesanan | Rata-rata rating |
 | --- | --- | ---: | ---: |
