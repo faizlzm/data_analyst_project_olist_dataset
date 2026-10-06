@@ -149,14 +149,6 @@ Semakin mahal ongkir, semakin lama pengirimannya. Ongkir termurah justru sampai 
 3. **Audit faktor penentu ongkir** (jarak, berat, rute) untuk menyusun strategi penekanan biaya kirim.
 4. **Tambahkan penjelasan di halaman checkout** ketika ongkir melampaui batas tertentu (misalnya di atas 24), bahwa biaya disesuaikan dengan jarak antarprovinsi atau berat dan dimensi paket, supaya pelanggan tidak kecewa saat barang tiba lama.
 
-## Keterbatasan dan Catatan
-
-- Analisis bersifat **deskriptif**: membandingkan rata-rata rating dan lama pengiriman antarkelompok. Tidak ada uji statistik maupun pemodelan, sehingga hasilnya menunjukkan pola, bukan hubungan sebab-akibat.
-- Dugaan bahwa mahalnya ongkir disebabkan jarak, berat, atau dimensi paket **belum diuji dengan data**, karena tabel geolokasi, produk, dan seller tidak dipakai dalam analisis ini. Itulah alasan rekomendasi ketiga berupa audit lanjutan.
-- Rating hanya dihitung dari pesanan `delivered` yang memiliki review. Pesanan yang dibatalkan atau belum terkirim tidak ikut dianalisis.
-- Batas kuartil ongkir pada label query ditulis dengan tanda `$`, sementara nilai pada dataset Olist umumnya dalam Real Brasil (BRL). Pastikan satuan sebelum mengutip angka tersebut sebagai dolar.
-- Pada skrip pembersihan, perintah `update ... set order_approved_at = order_purchase_timestamp where order_status = 'delivered'` berlaku untuk **semua** pesanan `delivered`, bukan hanya yang bernilai `NULL`. Kolom ini tidak dipakai pada tiga view analisis sehingga hasil di atas tidak terpengaruh, tetapi tambahkan `and order_approved_at is null` jika skrip dipakai untuk keperluan lain.
-
 ## Penulis
 
 **Ahmad Faiz Ali Azmi**
