@@ -11,8 +11,6 @@ Analisis berbasis SQL (PostgreSQL) pada Brazilian E-Commerce Public Dataset by O
 - [Metodologi](#metodologi)
 - [Temuan Utama](#temuan-utama)
 - [Kesimpulan dan Rekomendasi](#kesimpulan-dan-rekomendasi)
-- [Keterbatasan dan Catatan](#keterbatasan-dan-catatan)
-- [Cara Mereproduksi Analisis](#cara-mereproduksi-analisis)
 - [Penulis](#penulis)
 
 ---
