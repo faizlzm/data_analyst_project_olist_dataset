@@ -46,6 +46,8 @@ Sumber: [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kagg
 
 Analisis berfokus pada tiga tabel:
 
+![ERD Olist Dataset](report/erd_olist.png)
+
 | Tabel | Isi | Kolom yang dipakai |
 | --- | --- | --- |
 | `olist_orders_dataset` | Siklus hidup pesanan | `order_status`, `order_purchase_timestamp`, `order_approved_at`, `order_delivered_carrier_date`, `order_delivered_customer_date`, `order_estimated_delivery_date` |
