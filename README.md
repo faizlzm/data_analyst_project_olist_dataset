@@ -152,4 +152,6 @@ Semakin mahal ongkir, semakin lama pengirimannya. Ongkir termurah justru sampai 
 **Ahmad Faiz Ali Azmi**
 Lulusan Teknik Informatika, Universitas Brawijaya. Peserta Offline Bootcamp Data Analyst Batch 4 di dibimbing.id.
 
-GitHub: [@faizlzm](https://github.com/faizlzm)
+- **GitHub**: [@faizlzm](https://github.com/faizlzm)
+- **Email:** [faizlzm2974@gmail.com](mailto:faizlzm2974@gmail.com)
+- **Website:** [faizlzm.com](https://faizlzm.com)
