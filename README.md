@@ -88,8 +88,6 @@ Semua view hanya memakai pesanan berstatus `delivered` dengan tanggal pengiriman
 
 ## Temuan Utama
 
-> Seluruh angka di bawah diambil dari hasil query pada laporan PDF.
-
 ### 1. Keterlambatan dari janji adalah penyebab utama rating anjlok
 
 | Kecepatan pengiriman | Status janji | Pesanan | Rata-rata rating |
